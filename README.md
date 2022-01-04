@@ -1,4 +1,4 @@
-# LaurdanInLiveCellImaging
+# Laurdan In Live Cell Imaging
 Fiji Macro for paper : 
 
 Laurdan in live cell imaging: effect of acquisition settings, cell culture conditions and data analysis on generalized polarization measurements
