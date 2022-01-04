@@ -6,7 +6,8 @@ By:
 Sarka Pokornaa, Ana E. Venturaa, Tânia C.B. Santosc,d, Martin Hof b, Manuel Prietod,e, Anthony H. Futermana, Liana C. Silvac
 
 Based on an ImageJ macro published in Nature protocols paper: 
-“Quantitative imaging of membrane lipid order in cells and organisms” , Owen et al, 2011. doi:10.1038/nprot.2011.419
+“Quantitative imaging of membrane lipid order in cells and organisms” , 
+Owen et al, 2011. doi:10.1038/nprot.2011.419
 https://www.nature.com/articles/nprot.2011.419
 
 The original macro is available at: 
